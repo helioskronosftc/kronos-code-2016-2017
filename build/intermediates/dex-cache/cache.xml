@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\c2d3451eeef2987989106dd3faa4169c56e1478f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_308ed8744a9a404fddf6586b9901b567de1eca3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\cbed2e919d12bf07b890269a403c9f0fc66db80d\output\jars\libs\javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\javac_bc241b2f7a4613470ab59a496b990fa450207a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\cbed2e919d12bf07b890269a403c9f0fc66db80d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_92489db7b81b3aa81928c0fdd60cd9ff437c2362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\5462685095e3c62e3e52169f392bc8ce03a8289f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_2b6a2f5395072786c9eedd4e6e0c999e15c6062f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\8c04b5a77394e23716a6549389b8826159cfb636\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_da53aa7d3448133199772ff832fb63356146dc8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ftc_app-master\ftc_app-master\FtcRobotController\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1507b52491f8c109c8a697ccb3b53d589109494">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_8af3cac56758c3aec82c22c86b7b041f19ac0b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\352d7c63cbe4330868fbc8234e9c3c742b10f843\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_eb3b25ce647d394c759aa8c205c1e384bacc3977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\cbed2e919d12bf07b890269a403c9f0fc66db80d\output\jars\libs\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e162aff15b0540a24b7716bd3bc29af5baef37fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\dfc7c04dae2f7d5ed422a28b800be6ea3517f9e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_380ee99ae4e963ba66066d43488b478988711ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\cbed2e919d12bf07b890269a403c9f0fc66db80d\output\jars\libs\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\gson-2.8.0_20239d7b1fcc7a6e9e111cd0a7100da36c24ef4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\cbed2e919d12bf07b890269a403c9f0fc66db80d\output\jars\libs\gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\gson-extras-0.2.1_cb0203b0a5f7b7bdee55c63ef8de7d1cc9c7b13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\d770638a886a9c89aa283e358ade75cb9d9be6ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\classes_58602e127edc9e2eff99ed2cc28e92c865555dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kronos\.android\build-cache\cbed2e919d12bf07b890269a403c9f0fc66db80d\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="C:\ftc_app-master\ftc_app-master\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_612fb9e469a3ea14530031ab96114e0ff57fba6a.jar" />
+    </item>
+
+</items>

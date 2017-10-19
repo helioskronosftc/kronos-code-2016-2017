@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\loading_indicator_overlay.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\cbed2e919d12bf07b890269a403c9f0fc66db80d\\output\\res\\layout\\loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\port_attached_row.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\port_attached_row.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_parent.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\item_list_parent.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swap_usb_devices.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_devices.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\digital_devices.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\red_line.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\red_line.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\motor.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\banner_parent.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\banner_parent.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\legacy.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\legacy.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\pwm_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\pwm_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\file_info.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\file_info.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_generic_settings.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_generic_settings.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\lynx_module_configure_address_spin_item.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\cbed2e919d12bf07b890269a403c9f0fc66db80d\\output\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_output_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\analog_output_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo_controller_banner.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\servo_controller_banner.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_wifi_remembered_groups.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\template_info.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\template_info.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\info_button.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\info_button.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_outputs.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\analog_outputs.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\lynx_module_configure_address.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\digital_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\matrix_devices.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\matrix_devices.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\button_list.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\button_list.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configure_from_template.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_configure_from_template.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\gray_line.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\gray_line.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blocks.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\5462685095e3c62e3e52169f392bc8ce03a8289f\\output\\res\\layout\\activity_blocks.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\i2c_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\i2c_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\device_interface_module.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\device_interface_module.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inspection.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\c2d3451eeef2987989106dd3faa4169c56e1478f\\output\\res\\layout\\activity_inspection.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config_wifi_direct.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\lynx_usb_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\lynx_usb_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_program_and_manage.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_program_and_manage.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_logs.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_view_logs.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\lynx_module.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\lynx_module.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_lynx_address_update.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\pwms.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\pwms.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\color_list_preference_line_item.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\cbed2e919d12bf07b890269a403c9f0fc66db80d\\output\\res\\layout\\color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_configuration.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\simple_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\simple_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\i2cs.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\i2cs.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo_list.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\servo_list.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_input_device.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\analog_input_device.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\servo.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\matrices.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\matrices.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor_list.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\motor_list.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_controller.xml",
+        "source": "C:\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\layout\\activity_ftc_controller.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_programming_mode.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\5462685095e3c62e3e52169f392bc8ce03a8289f\\output\\res\\layout\\activity_programming_mode.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor_controller_banner.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\motor_controller_banner.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_device_lynx.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\digital_device_lynx.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_inputs.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\analog_inputs.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_lynx_fw_update.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "C:\\ftc_app-master\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_wifi_channel_selector.xml",
+        "source": "C:\\Users\\Kronos\\.android\\build-cache\\d770638a886a9c89aa283e358ade75cb9d9be6ba\\output\\res\\layout\\activity_ftc_wifi_channel_selector.xml"
+    }
+]
